@@ -31,3 +31,4 @@ $(document).ready(function(){
         equal(data, "---a\r\nContent-Disposition: form-data; name=\"chuck\"; filename=\"norris.pdf\"\r\nContent-Type: application/pdf\r\n\r\nnorris\r\n---a--", "body should correctly formatted");
     });
 });
+ 
