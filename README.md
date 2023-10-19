@@ -1,6 +1,6 @@
-# HTML5 FormData
+##HTML5 FormData
 
-Emulate *FormData* object for browsers wich support [FileAPI](http://www.w3.org/TR/FileAPI/) interface.
+Emulate #FormData* object for browsers wich support [FileAPI](http://www.w3.org/TR/FileAPI/) interface.
 
 *formdata.js* doesn't overload original *FormData* object in browser like Safari 5.0+, Firefox 4.0+ or Chrome 6.0+.
 
@@ -63,3 +63,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+ 
